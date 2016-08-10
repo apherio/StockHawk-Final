@@ -2,7 +2,6 @@
     <string name="app_name">Stock Hawk</string>
 
     <string name="action_example" translatable="false">Example action</string>
-
     <string name="action_settings" translatable="false">Settings</string>
     <string name="action_change_units" translatable="false">Change Units</string>
     <string name="symbol_search" translatable="false">Symbol Search</string>
